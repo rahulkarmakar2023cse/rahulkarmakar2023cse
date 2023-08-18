@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rahul and I'm a Programmer </h2>
+<h2 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I+am+Rahul+Karmakar+%F0%9F%91%8B%F0%9F%8F%BB;A+coder%F0%9F%8C%90%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%2C;Programmer%F0%9F%9B%B0%EF%B8%8F%F0%9F%A4%96%F0%9F%96%A5%EF%B8%8F%2C;Tech-enthusiast%F0%9F%92%BB%E2%9A%99%EF%B8%8F%F0%9F%93%B6+%2C;Anime+%F0%9F%8D%A5%F0%9F%8D%9C%F0%9F%A6%8A)](https://git.io/typing-svg) </h2>
 
 ###
 
