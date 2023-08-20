@@ -5,10 +5,10 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rahulkarmakar2023cse&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkarmakar2023cse&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulkarmakar2023cse&theme=darcula" alt="GitHub Profile Summary Card">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulkarmakar2023cse&theme=darcula" alt="GitHub Stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulkarmakar2023cse&theme=darcula" alt="GitHub Profile Summary Card">
 </div>
-
 
 ###
 
